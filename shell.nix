@@ -1,5 +1,5 @@
 # https://wiki.nixos.org/wiki/Python
-# shell.nix
+# shell.nix 
 let
   # We pin to a specific nixpkgs commit for reproducibility.
   # Last updated: 2024-12-15. Check for new commits at https://status.nixos.org.
